@@ -8,3 +8,5 @@ This project is designed to seamlessly orchestrate the movement of data through 
 4) Automated Workflow: Leverage Airflow (Cloud Composer) to automate the end-to-end data pipeline, ensuring reliability and scalability.
 
 Developed using Python, Google Cloud Storage, Cloud Data Fusion, Google BigQuery, Apache Airflow
+
+![Screenshot 2024-06-13 at 1 50 54 PM](https://github.com/ropelife/CloudETL-DataFusion-Airflow-BigQuery/assets/45571370/6114d5fd-b69d-40e0-a885-8ce0be1c67f1)
